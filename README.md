@@ -3,6 +3,8 @@
 ## Screen Size
 34-inch (2560 × 1080)
 
+Still adding and changing with time 
+
 ## Brush
 
 | Brush Name    |
